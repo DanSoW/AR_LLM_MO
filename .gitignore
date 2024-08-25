@@ -1,0 +1,6 @@
+MobileApp/Library
+MobileApp/.vs
+MobileApp/*.apk
+
+AgentApp/venv
+AgentApp/.idea
