@@ -4,3 +4,4 @@ MobileApp/*.apk
 
 AgentApp/venv
 AgentApp/.idea
+AgentApp/.env
